@@ -5,4 +5,13 @@ Quicklook plugin for .gradle files
 
 Install
 =======
-brew cask install QLGradle
+```bash
+brew cask install QLGradle 
+```
+
+or manually
+```bash
+git clone https://github.com/Urucas/QLGradle.git && cd QLGradle
+make
+```
+
