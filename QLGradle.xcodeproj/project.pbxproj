@@ -292,6 +292,7 @@
 				01DBF7621A8A848F00A6D525 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
