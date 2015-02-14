@@ -6,7 +6,7 @@ Quicklook plugin for .gradle files
 Install
 =======
 ```bash
-brew cask install QLGradle 
+brew cask install qlgradle 
 ```
 
 or manually
